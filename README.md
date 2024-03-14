@@ -8,16 +8,16 @@ Separar cada informação para depois estruturar como uma coisa só.
 As funcionalidades exigidas nesse desafio são
 
 - Botão de mudança de tema claro e escuro
-![mudança de tema](src/assents/images/mudança%20de%20tema.gif)
+![mudança de tema](src/assets/images/mudança%20de%20tema.gif)
 
 - Botão que ao ser clicado, carrega mais 10 pokémons.
-![botão carregar mais](src/assents/images/botao-carregar-mais.gif)
+![botão carregar mais](src/assets/images/botao-carregar-mais.gif)
 
 - Ao clicar no card do pokémon, da acesso ao detalhamento do mesmo, com nome, imagem, habilidades com descrição de cada uma, e movimentos.
-![detalhamento](src/assents/images/detalhamento.gif)
+![detalhamento](src/assets/images/detalhamento.gif)
 
 - Como bônus, foi solicitado implementar um select de tipo de pokémon, onde filtra os pokémons pelo tipo.
-![selecionador filtro](src/assents/images/selecionador-por-tipo.gif)
+![selecionador filtro](src/assets/images/selecionador-por-tipo.gif)
 
 
 ## Ferramentas Utilizadas
@@ -63,7 +63,7 @@ Para que o projeto rode localmente, será necessário estar com VSCode.
    ```bash
    git clone https://github.com/PedroHike/desafio-react-avancado.git
    ```
-   - É possível também baixar o arquivo! e desconpactar localmente ![imagem](src/assents/images/onde-baixar.png)
+   - É possível também baixar o arquivo! e desconpactar localmente ![imagem](src/assets/images/onde-baixar.png)
    
 
 3. **Acesse o Diretório:**
