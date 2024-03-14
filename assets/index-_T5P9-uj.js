@@ -302,7 +302,7 @@ Error generating stack: `+o.message+`
         font-size: 13px;
         margin-right: 10px;
     }
-`,sg=()=>P.jsx(P0,{basename:"/",children:P.jsxs(w0,{children:[P.jsx(su,{exact:!0,path:"/",element:P.jsx(Gv,{})}),P.jsx(su,{exact:!0,path:"/pokemon/:id",element:P.jsx(bv,{})})]})}),ag=$v`
+`,sg=()=>P.jsx(P0,{basename:"/pokedex-react-avancado",children:P.jsxs(w0,{children:[P.jsx(su,{exact:!0,path:"/",element:P.jsx(Gv,{})}),P.jsx(su,{exact:!0,path:"/pokemon/:id",element:P.jsx(bv,{})})]})}),ag=$v`
     * {
         margin: 0;
         padding: 0;
