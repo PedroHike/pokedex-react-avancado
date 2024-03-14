@@ -86,7 +86,7 @@ Para que o projeto rode localmente, será necessário estar com VSCode.
    ```
 
 7. **Acesse a Aplicação:**
-   Abra o navegador e acesse [http://localhost:3000](http://localhost:3000).
+   Abra o navegador e acesse o link que o terminal informou.
 
 ## Contribuições
 
